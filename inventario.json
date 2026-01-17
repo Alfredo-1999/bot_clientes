@@ -1,0 +1,28 @@
+{
+  "productos": [
+    {
+      "nombre": "Laptop Gamer",
+      "precio": "$1200",
+      "desc": "Procesador i7, 16GB RAM, RTX 3060.",
+      "imagen": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=600"
+    },
+    {
+      "nombre": "Mouse Pro",
+      "precio": "$50",
+      "desc": "Inalámbrico, 16000 DPI, ergonómico.",
+      "imagen": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?w=600"
+    }
+  ],
+  "servicios": [
+    {
+      "nombre": "Mantenimiento",
+      "precio": "$40",
+      "desc": "Limpieza física y optimización de software."
+    },
+    {
+      "nombre": "Consultoría",
+      "precio": "$25",
+      "desc": "Asesoría técnica de 30 minutos vía Meet."
+    }
+  ]
+}
